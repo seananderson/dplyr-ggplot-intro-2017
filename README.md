@@ -12,4 +12,4 @@ See the files `dplyr-intro.Rmd` and `ggplot-intro.Rmd` for R Markdown versions o
 
 The files `dplyr-intro.html` and `ggplot-intro.html` contain the "knitted" version of the notes and completed exercises. These HTML files have all the R output and figures rendered.
 
-During the workshop we will be working through the files in the `exercises` folder. The files in this folder how some of the lines of code removed so that we can write the code as we go.
+During the workshop we will be working through the files in the `exercises` folder. The files in this folder have some of the lines of code removed so that we can write the code as we go.
